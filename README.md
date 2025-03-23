@@ -1,6 +1,6 @@
 # Bank Loan Report
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/908c5440-f0b9-4ce6-a5e4-6f8f31e18089/f771e6bd4c2799630079?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/abb32d53-6f84-47cb-9c03-de1bea2b2d2f/f771e6bd4c2799630079?experience=power-bi
 
 ## Problem Statement
 
